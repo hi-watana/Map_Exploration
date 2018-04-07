@@ -5,7 +5,7 @@ Map Exploration is a game program for ARM Mbed
 
 In Map Exploration, your goal is to find Ookayama Station, Suzukakedai Station,
 or some other places. You can explore GSI Map (source: Geospatial Information
-Authority of Japan, [https://maps.gsi.go.jp/development/ichiran.html](https://maps.gsi.go.jp/development/ichiran.html)), displayed
+Authority of Japan, https: //maps.gsi.go.jp/development/ichiran.html), displayed
 in a 512x512 (pixels) window, by using the joystick on an application board.
 When you finally find the place, Mbed board tells you that, and you can start a
 new exploration.
@@ -23,4 +23,5 @@ Detailed information is available from `Slide.pdf`.
 In addition to mbed compiler ([https://os.mbed.com](https://os.mbed.com)),
 * C12832
   ([https://os.mbed.com/users/chris/code/C12832/](https://os.mbed.com/users/chris/code/C12832/))
+
 is required.
