@@ -1,7 +1,6 @@
 # Map Exploration
 
-Map Exploration is a game program for ARM Mbed
-([https://www.mbed.com/en/](https://www.mbed.com/en/)).
+Map Exploration is a game program for ARM Mbed (<https://www.mbed.com/en/>).
 
 In Map Exploration, your goal is to find Ookayama Station, Suzukakedai Station,
 or some other places. You can explore GSI Map (source: Geospatial Information
@@ -20,8 +19,7 @@ Detailed information is available from `Slide.pdf`.
 
 ### Requirements
 
-In addition to mbed compiler ([https://os.mbed.com](https://os.mbed.com)),
-* C12832
-  ([https://os.mbed.com/users/chris/code/C12832/](https://os.mbed.com/users/chris/code/C12832/))
+In addition to mbed compiler (<https://os.mbed.com>),
+* C12832 (<https://os.mbed.com/users/chris/code/C12832/>)
 
 is required.
